@@ -1,4 +1,3 @@
-```markdown
 # Movie Recommender System
 
 A content-based movie recommender implemented in a Jupyter Notebook. The project uses the TMDB 5000 dataset (movies + credits) and builds recommendations by combining movie metadata (genres, keywords, cast, crew/director, and overview) into a single feature representation and computing pairwise similarities.
